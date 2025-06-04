@@ -69,6 +69,7 @@ pip install perceiver-io[text,vision,audio]
 
 Installation from sources requires a [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and a
 [Poetry](https://python-poetry.org/docs/#installation) (1.2.0 or higher) installation.
+The project supports Python versions >=3.8 and <3.12.
 
 Create and activate the `perceiver-io` conda environment:
 
